@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    width: 1000px;
+    height: auto;
+    border-radius: 20px;
+}
+.first_img{
+    
+}
